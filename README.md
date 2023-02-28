@@ -1,4 +1,8 @@
-# Bank-Marketing Analysis
+# Exploratory Data Analysis and Model Building - Bank Marketing Campaign
+
+**Data Description**
+
+This dataset gives information about a marketing campaign of a financial institution. 
 
 **Goal**  Build a model to predict the likelihood of customers subscribing to a term deposit.
 
