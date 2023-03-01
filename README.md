@@ -3,6 +3,7 @@
 **Data Description**
 
 This dataset gives information about a marketing campaign of a financial institution. 
+We have a classification problem and target is a binary variable (yes/no)
 
 **Goal**  Build a model to predict the likelihood of customers subscribing to a term deposit.
 
