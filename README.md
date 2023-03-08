@@ -14,29 +14,46 @@ Build a model to predict the likelihood of customers subscribing to a term depos
 # Understanding the DataSet
 
 **Bank client Data**:
-Age (numeric)
+
+Age:(numeric)
+
 Balance : average yearly balance in euros
+
 Job: type of job (categorical)
+
 Marital: marital status (categorical)
+
 Education (categorical)
+
 Default: has credit in default? (categorical: 'no', 'yes', 'unknown')
+
 Housing: has housing loan? (categorical: 'no', 'yes', 'unknown')
+
 Loan: has personal loan? (categorical: 'no', 'yes', 'unknown')
 
 **Related to the last contact of the current campaign**:
+
 Contact: contact communication type (categorical)
+
 Month: last contact month of year (categorical)
+
 Day: last contact day of the week (categorical)
+
 Duration: last contact duration, in seconds (numeric)
 
 **other features**
+
 campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
+
 pdays: number of days that passed by after the client was last contacted from a previous campaign 
+
 previous: number of contacts performed before this campaign and for this client (numeric)
+
 poutcome: outcome of the previous marketing campaign (categorical)
 
 **Target value**
--y (deposit) : Target value
+
+y (deposit) : Target value
 
 ## **Missing Values**
 
