@@ -9,7 +9,8 @@ The analysis help the bank optimize its operations and strategies to attract mor
 We have a classification problem and target is a binary variable (yes/no)
 
 ## **Goal**  
-Build a model to predict the likelihood of customers subscribing to a term deposit.
+
+Find the best strategies to improve for the next marketing campaign. How can the financial institution have greater effectiveness for future marketing campaigns? In order to answer this, we have to analyze the last marketing campaign the bank performed and identify the patterns that will help us find conclusions in order to develop future strategies
 
 # Understanding the DataSet
 
