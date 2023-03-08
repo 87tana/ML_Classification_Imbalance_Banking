@@ -41,7 +41,7 @@ Day: last contact day of the week (categorical)
 
 Duration: last contact duration, in seconds (numeric)
 
-**other features**
+**Other features**
 
 campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
 
