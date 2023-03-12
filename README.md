@@ -60,3 +60,5 @@ y (deposit) : Target value
 
 There are several missing values in some categorical attributes, all coded with the "unknown" label. 
 These missing values can be treated as a possible class label or remove them by applying imputation techniques.
+
+ There are not that much insights we can gain from the descriptive dataset since most of our descriptive data is located not in the "numeric" columns but in the "categorical columns".
