@@ -3,7 +3,7 @@
 ## **Data Description**
 
 This dataset(https://archive.ics.uci.edu/ml/datasets/bank+marketing#) gives information about a marketing campaign of a financial institution. 
-The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to assess if the product (bank term deposit) would be subscribed ('yes') or not ('no').
+The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, If the client says yes to opening the term deposit account, the target variable 'y' is marked as 'yes', else 'no'.
 
 The analysis help the bank optimize its operations and strategies to attract more customers to subscribe to term deposits.
 We have a classification problem and target is a binary variable (yes/no)
