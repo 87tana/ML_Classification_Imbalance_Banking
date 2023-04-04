@@ -29,19 +29,6 @@ To improve future marketing campaigns for a financial institution, follow these 
 
 By following these steps, a financial institution can develop more effective strategies for future campaigns.
 
-## **Ojectives**
-
-**Data exploration**
-
-
-**Data cleaning**
-
-
-**Feature extraction**
-
-
-**Developing a robust machine learning algorithms**
-
 
 # Understanding the DataSet
 
