@@ -10,7 +10,24 @@ We have a classification problem and target is a binary variable (yes/no)
 
 ## **Goal**  
 
-Find the best strategies to improve for the next marketing campaign. How can the financial institution have greater effectiveness for future marketing campaigns? In order to answer this, we have to analyze the last marketing campaign the bank performed and identify the patterns that will help us find conclusions in order to develop future strategies
+To improve future marketing campaigns for a financial institution, follow these steps:
+
+- Clean the data.
+
+
+- Analyze the data to identify patterns and insights.
+
+
+- Identify key factors that contributed to the success or failure of the previous campaign.
+
+
+- Develop new strategies based on insights gained.
+
+
+- Test and refine the new strategies.
+
+
+By following these steps, a financial institution can develop more effective strategies for future campaigns.
 
 ## **Ojectives**
 
