@@ -1,4 +1,4 @@
-# Exploratory Data Analysis and Model Building - Bank Marketing Campaign
+# Machine Learning Case Study,EDA and Model Building - Bank Marketing Prediction
 
 ## **Data Description**
 
