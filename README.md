@@ -10,25 +10,7 @@ We have a classification problem and target is a binary variable (yes/no)
 
 ## **Goal**  
 
-To improve future marketing campaigns for a financial institution, follow these steps:
-
-- Clean the data.
-
-
-- Analyze the data to identify patterns and insights.
-
-
-- Identify key factors that contributed to the success or failure of the previous campaign.
-
-
-- Develop new strategies based on insights gained.
-
-
-- Test and refine the new strategies.
-
-
-By following these steps, a financial institution can develop more effective strategies for future campaigns.
-
+-  The classification goal is to predict if the client will subscribe a term deposit (target variable y). 
 
 # Understanding the DataSet
 
