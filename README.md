@@ -42,7 +42,7 @@ Day: last contact day of the week (categorical)
 
 Duration: last contact duration, in seconds (numeric)
 
-**Other features**
+**Other Features**
 
 campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
 
@@ -51,6 +51,19 @@ pdays: number of days that passed by after the client was last contacted from a 
 previous: number of contacts performed before this campaign and for this client (numeric)
 
 poutcome: outcome of the previous marketing campaign (categorical)
+
+**Social and Economic context attributes**
+
+
+emp.var.rate: employment variation rate — quarterly indicator (numeric)
+
+cons.price.idx: consumer price index — monthly indicator (numeric)
+
+cons.conf.idx: consumer confidence index — monthly indicator (numeric)
+
+euribor3m: euribor 3 month rate — daily indicator (numeric)
+
+nr.employed: number of employees — quarterly indicator (numeric)
 
 **Target value**
 
