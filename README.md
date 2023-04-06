@@ -79,9 +79,10 @@ y (deposit) : Target value
 
 ## **Missing Values**
 
-There are missing values in some categorical attributes, all coded with the "unknown" label. These missing values can be treated as a possible class label or removed by applying imputation techniques. However, it is important to carefully consider the implications of either approach and choose the one that is most appropriate for the specific context.
-
-In terms of gaining insights from the descriptive dataset, much of the relevant information may be located in the categorical columns rather than the numeric columns. Therefore, it is important to perform a thorough analysis of the categorical variables in order to gain a deeper understanding of the data and identify patterns that can inform decision-making. This may involve techniques such as frequency analysis, cross-tabulation, and visualization. Additionally, it may be useful to consider feature engineering techniques such as one-hot encoding or feature scaling to help extract more information from the categorical variables.
- 
+The categorical attributes have missing values labeled as **"unknown"**. These values can be treated as a class or imputed.
  
  ## **File Description**
+
+**EDA
+
+**Preprocessing & 
