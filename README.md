@@ -20,6 +20,16 @@ This is a **binary classification** problem where the task is to predict whether
 
 We focused on **AUC** over accuracy because the dataset is imbalanced with the majority class being "no". Using accuracy as a metric can result in a high accuracy score even for a random model. However, AUC considers both **true positive rate** and **false positive rate**, and only a model with TPR and FPR well above the random line in the ROC curve will have a good AUC. Accuracy cannot guarantee this.
 
+ ## **File Description**
+
+**Bank_EDA**: Insights on Exploratory Data Analysis.
+
+**Preprocessing & Modeling**: Building 3 models and the evaluation part.
+
+**Preprocessing & Modeling_Over&UnderSampled**: Applying oversampling techniques like SMOTE, SVMSMOTE & undersampling to assess whether they can improve the misclassification issue in this imbalanced data set.
+
+**Modeling on Socio-Economic Attributes**: (additional bank dataset) to check whether they can affect misclassification and decrease false negatives.
+
 ## Understanding the DataSet
 
 **Bank client Data**:
@@ -81,8 +91,4 @@ y (deposit) : Target value
 
 The categorical attributes have missing values labeled as **"unknown"**. These values can be treated as a class or imputed.
  
- ## **File Description**
 
-**EDA
-
-**Preprocessing & 
