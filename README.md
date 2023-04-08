@@ -26,10 +26,6 @@ We have a classification problem and target is a binary variable (yes/no)
 
 **Bank4: Modeling on Socio-Economic Attributes**: (additional bank dataset) to check whether they can affect misclassification and decrease false negatives.
 
-## **Type of Machine Learning problem**
-
-This is a **binary classification** problem where the task is to predict whether a customer will subscribe to a term deposit or not. The two classes are "yes" which indiacate that the customer subscribed and "no" which indicate that the customer did not subscribe.
-
 ## **Performance Metric Used**
 
 We focused on **AUC** over accuracy because the dataset is imbalanced with the majority class being "no". Using accuracy as a metric can result in a high accuracy score even for a random model. However, AUC considers both **true positive rate** and **false positive rate**, and only a model with TPR and FPR well above the random line in the ROC curve will have a good AUC. Accuracy cannot guarantee this.
