@@ -89,9 +89,3 @@ nr.employed: number of employees — quarterly indicator (numeric)
 **Target value**
 
 y (deposit) : Target value
-
-## **Missing Values**
-
-The categorical attributes have missing values labeled as **"unknown"**. These values can be treated as a class or imputed.
- 
-
