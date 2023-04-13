@@ -7,7 +7,7 @@
 The aim of this project is to analyzed data from the BankMarketing Data Set.  This data set is related to direct marketing campaigns of a Portuguese banking institution, conducted via phone calls. The first part of our project involved describing and visualizing the data, while the second part focused on using data classification models.
 
 
-(https://archive.ics.uci.edu/ml/datasets/bank+marketing#)
+- Source of Data: (https://archive.ics.uci.edu/ml/datasets/bank+marketing#)
 
 
 ## **Goal**  
