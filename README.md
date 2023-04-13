@@ -17,14 +17,16 @@ We have a classification problem and target is a binary variable (yes/no)
 
 
  ## **File Description**
+ 
+**Bank1 : Understanding the Dataset
 
-**Bank1: Bank_EDA** Insights on Exploratory Data Analysis.
+**Bank2: Bank_EDA** Insights on Exploratory Data Analysis.
 
-**Bank2: Preprocessing & Modeling**: Building theree models and it's evaluation part.
+**Bank3: Preprocessing & Modeling**: Building theree models and it's evaluation part.
 
-**Bank3 : Preprocessing & Modeling_Over&UnderSampled**: Applying oversampling techniques like SMOTE, SVMSMOTE & undersampling to assess whether they can improve the misclassification issue in this imbalanced data set.
+**Bank4 : Preprocessing & Modeling_Over&UnderSampled**: Applying oversampling techniques like SMOTE, SVMSMOTE & undersampling to assess whether they can improve the misclassification issue in this imbalanced data set.
 
-**Bank4: Modeling on Socio-Economic Attributes**: (additional bank dataset) to check whether they can affect misclassification and decrease false negatives.
+**Bank5: Modeling on Socio-Economic Attributes**: (additional bank dataset) to check whether they can affect misclassification and decrease false negatives.
 
 ## **Performance Metric Used**
 
