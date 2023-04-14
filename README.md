@@ -17,8 +17,10 @@ Multiple contacts with clients were often necessary to determine if they would s
 
 ## **Goal**  
 
-The classification goal is to analysis the bank dataset to optimize its operations and strategies to attract more customers to subscribe to term deposits.
-We have a classification problem and target is a binary variable (yes/no) 
+The goal is to develop a ML model that can effectively classify whether a client subscribes to longer-term deposits by analyzing input features and identifying unknown patterns.
+
+
+## **Objectives**
 
 
  ## **File Description**
