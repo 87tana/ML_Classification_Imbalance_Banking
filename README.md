@@ -4,7 +4,12 @@
 
 ## **Introduction**
 
-The aim of this project is to analyzed data from the BankMarketing Data Set.  This data set is related to direct marketing campaigns of a Portuguese banking institution, conducted via phone calls. The first part of our project involved describing and visualizing the data, while the second part focused on using data classification models.
+Old marketing methods didn't help banks increase their enterprise. therefore, European banks tend to offer long-term deposits with good interest rates through direct marketing, but reaching out to many people is time-consuming and has low success rates. 
+Banks are now seeking solutions to improve efficiency and increase success rates. 
+The Portuguese Banking Institution has provided data on marketing campaigns conducted over the phone.
+
+
+Multiple contacts with clients were often necessary to determine if they would subscribe(‘yes’ or ‘no’) to the bank's term deposit product.
 
 
 - Source of Data: (https://archive.ics.uci.edu/ml/datasets/bank+marketing#)
