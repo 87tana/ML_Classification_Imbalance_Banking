@@ -22,6 +22,23 @@ The goal is to develop a ML model that can effectively classify whether a client
 
 ## **Objectives**
 
+- Which demographics are more likely to open term deposits, and how can the bank leverage this information to increase subscription rates?
+
+
+- How does marital status affect the likelihood of opening accounts, and how can the bank use this knowledge to improve its marketing strategies?
+
+
+- What is the success rate of repeat marketing campaigns, and how can the bank improve subscription rates by leveraging this knowledge?
+
+
+- How many times should the bank contact customers to maximize subscription rates, and how can it optimize its communication channels for maximum effectiveness?
+
+
+- How can the bank leverage recency to improve customer memory and increase subscription rates, particularly with respect to customers' account balances and ages?
+
+
+- How can the bank analyze the relationship between the duration of a call and customer age to develop more targeted marketing strategies for different age groups?
+
 
  ## **File Description**
  
