@@ -2,6 +2,10 @@
 
 # Bank Marketing Prediction
 
+
+![Image](Rincian-Biaya-Operasi-Tahi-Lalat-di-Erha-Clinic-300x168.jpg)
+
+
 ## **Introduction**
 
 Old marketing methods didn't help banks increase their enterprise. therefore, European banks tend to offer long-term deposits with good interest rates through direct marketing, but reaching out to many people is time-consuming and has low success rates. 
