@@ -63,4 +63,8 @@ The goal is to develop a ML model that can effectively classify whether a client
 We focused on **AUC** over accuracy because the dataset is imbalanced with the majority class being "no". Using accuracy as a metric can result in a high accuracy score even for a random model. However, AUC considers both **true positive rate** and **false positive rate**, and only a model with TPR and FPR well above the random line in the ROC curve will have a good AUC. Accuracy cannot guarantee this.
 
 
+<p align="center">
+    <img width="400" src="ROC_Curves.png" alt="Material Bread logo">
+</p>
+
 
