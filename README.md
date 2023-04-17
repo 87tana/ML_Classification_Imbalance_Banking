@@ -2,9 +2,9 @@
 
 # Bank Marketing Prediction
 
-
+<p align="center">
 ![Image](Rincian-Biaya-Operasi-Tahi-Lalat-di-Erha-Clinic-300x168.jpg)
-
+</p>
 
 ## **Introduction**
 
