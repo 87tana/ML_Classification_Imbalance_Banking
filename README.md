@@ -67,7 +67,7 @@ The goal is to develop a ML model that can effectively classify whether a client
 - AUC considers both true positive rate and false positive rate, making it a more reliable metric
 
 
-- The **Random Forest model** demonstrated better recall and f1-score for the minority class, which is important for predicting subscription to term deposits
+- The **Random Forest model** demonstrated better **recall and f1-score** for the **minority class**, which is important for predicting subscription to term deposits
 It is advisable for the bank to utilize the Random Forest model
 
 
