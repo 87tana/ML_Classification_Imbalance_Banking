@@ -60,7 +60,19 @@ The goal is to develop a ML model that can effectively classify whether a client
 
 ## **Performance Metric Used**
 
-We focused on **AUC** over accuracy because the dataset is imbalanced with the majority class being "no". Using accuracy as a metric can result in a high accuracy score even for a random model. However, AUC considers both **true positive rate** and **false positive rate**, and only a model with TPR and FPR well above the random line in the ROC curve will have a good AUC. Accuracy cannot guarantee this.
+
+- AUC is a better metric than accuracy for imbalanced datasets, as accuracy can be high even for a random model
+
+
+- AUC considers both true positive rate and false positive rate, making it a more reliable metric
+
+
+- The **Random Forest model** demonstrated better recall and f1-score for the minority class, which is important for predicting subscription to term deposits
+It is advisable for the bank to utilize the Random Forest model
+
+
+- Hyperparameter tuning techniques can be employed to further improve the model's performance
+
 
 
 <p align="center">
