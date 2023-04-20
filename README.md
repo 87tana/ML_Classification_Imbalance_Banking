@@ -25,6 +25,21 @@ Multiple contacts with clients were often necessary to determine if they would s
 
 The goal is to develop a ML model that can effectively classify whether a client subscribes to longer-term deposits by analyzing input features and identifying unknown patterns.
 
+## **What is a Term Deposit**
+
+Term deposit is a saving option where you lock away your money for a fixed term and earn a guaranteed interest rate but can't access the money until the term is up.
+
+
+## **What are the benefits of term deposits for both banks and customers?**
+
+Bank: Stable and Predictable funding source and helps reduce their liquidity risk.
+
+
+Customer: Secure and low-risk investment option, Guaranteed rate of return
+
+
+Overall: provide a win-win situation for both banks and customers by offering a reliable source
+
 
 ## **Objectives**
 
