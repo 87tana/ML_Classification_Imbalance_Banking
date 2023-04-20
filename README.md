@@ -52,9 +52,9 @@ The goal is to develop a ML model that can effectively classify whether a client
 
 **Bank2**: Bank_EDA Insights on Exploratory Data Analysis.
 
-**Bank3**: Preprocessing & Modeling: Building theree models and it's evaluation part.
+**Bank3**: Preprocessing and Modeling: Building theree models and it's evaluation part.
 
-**Bank4** : Preprocessing & Modeling_Over&UnderSampled: Applying oversampling techniques like SMOTE, SVMSMOTE & undersampling to assess whether they can improve the misclassification issue in this imbalanced data set.
+**Bank4** : Preprocessing and Modeling_Over&UnderSampled: Applying oversampling techniques like SMOTE, oversampling and undersampling to assess whether they can improve the misclassification issue in this imbalanced data set.
 
 **Bank5**: Modeling on Socio-Economic Attributes: (additional bank dataset) to check if they can affect misclassification and decrease false negatives.
 
