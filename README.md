@@ -25,7 +25,7 @@ Multiple contacts with clients were often necessary to determine if they would s
 
 The goal is to develop a ML model that can effectively classify whether a client subscribes to longer-term deposits by analyzing input features and identifying unknown patterns.
 
-## **What is a Term Deposit**
+## **What is a Term Deposit?**
 
 Term deposit is a saving option where you lock away your money for a fixed term and earn a guaranteed interest rate but can't access the money until the term is up.
 
