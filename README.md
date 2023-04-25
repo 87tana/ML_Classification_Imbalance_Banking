@@ -91,7 +91,7 @@ It is advisable for the bank to utilize the Random Forest model
 
 
 <p align="center">
-    <img width="400" src="ROC_Curves.png" alt="Material Bread logo">
+    <img width="400" src="ROC_on_allfeatures.png" alt="Material Bread logo">  
 </p>
 
 
