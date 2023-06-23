@@ -1,4 +1,4 @@
-# Machine Learning Case Study,EDA and Model Building
+# Machine Learning Case Study, EDA and Model Building
 
 # Bank Marketing Prediction
 
