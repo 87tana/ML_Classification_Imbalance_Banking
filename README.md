@@ -38,7 +38,7 @@ Bank: Stable and Predictable funding source and helps reduce their liquidity ris
 Customer: Secure and low-risk investment option, Guaranteed rate of return
 
 
-Overall: provide a win-win situation for both banks and customers by offering a reliable source
+Overall: provide a win-win situation for both banks and customers by offering a reliable source.
 
 
 ## **Objectives**
